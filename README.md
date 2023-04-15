@@ -145,7 +145,7 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 ![accuracy](https://user-images.githubusercontent.com/93427208/229997571-147e8a06-5c81-4edc-8236-ecfd4e56ebc6.png)
 
 ## Result:
-Thus a perceptron for classification is implemented using python
+Thus a perceptron for classification is implemented using python.
 
 
 
