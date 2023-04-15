@@ -47,6 +47,10 @@ f(x) maps the input features  ‘x’  vector to a scalar value, shifted by a bi
 12. Print the accuracy
 
 ## PROGRAM:
+```
+NAME : VISHAL GOWTHAMAN K R
+REG NO: 212221230123
+```
 ### Libraries
 ```
 import numpy as np 
